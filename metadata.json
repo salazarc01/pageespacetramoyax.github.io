@@ -1,0 +1,7 @@
+{
+  "name": "SpaceTramoya X",
+  "description": "Plataforma exclusiva de registro y gestión para la comunidad SpaceTramoya X, con sistema de monedero virtual Nóvares y panel administrativo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
